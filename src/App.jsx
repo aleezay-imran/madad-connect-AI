@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import { resources } from './data/resources'
-import { matchResources, CATEGORY_LABELS } from './matchResources'
+import { matchResources, CATEGORY_LABELS } from './matchresources'
 
 const EXAMPLES = [
   'My father has cancer and we cannot afford treatment',
