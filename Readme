@@ -1,0 +1,18 @@
+# MadadConnect AI
+
+An AI-powered social welfare platform connecting low-income individuals and deserving students in Pakistan with scholarships, healthcare, ration, and financial assistance.
+
+## Problem Statement & Solution
+- **Problem:** Low-income citizens struggle to find genuine social welfare support, scholarships, and assistance schemes due to scattered information and complex portals.
+- **Solution:** A centralized AI agent powered by the Gemini API that provides natural language eligibility matching, document checklists, and step-by-step guidance in English and Roman Urdu.
+
+## Technology Stack
+- **Frontend:** React, Vite, Tailwind CSS, JavaScript
+- **AI Integration:** Google Gemini API
+- **Deployment:** Vercel / Netlify
+- **Version Control:** Git & GitHub
+
+## Setup & Installation Instructions
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/aleezay-imran/madad-connect-AI.git](https://github.com/aleezay-imran/madad-connect-AI.git)
